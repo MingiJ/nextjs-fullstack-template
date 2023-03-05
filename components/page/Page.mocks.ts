@@ -1,6 +1,6 @@
-import { IPage } from "./Page";
 
-const base: IPage = {
+
+const base: any= {
   sampleTextProp: "Hello world!",
 };
 
