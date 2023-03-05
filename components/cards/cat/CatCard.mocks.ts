@@ -1,7 +1,7 @@
 import { ICatCard } from "./CatCard";
 
 const base: ICatCard = {
-  sampleTextProp: "Hello world!",
+  sampleTextProp: "Wafula",
 };
 
 export const mockCatCardProps = {
